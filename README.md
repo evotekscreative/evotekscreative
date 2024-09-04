@@ -24,8 +24,8 @@
 
 ### 😄 Fun Tidbits
 - **Pronouns:** We/Us
-- ⚡ **Fun Fact:** I once [insert something quirky or fun about you, like "coded a game in 24 hours," "designed a logo that glows in the dark," etc.]
-- 🎉 **Favorite Pastime:** When I’m not in front of a screen, you’ll find me [insert hobby or fun activity you enjoy].
+- ⚡ **Fun Fact:** I once..
+- 🎉 **Favorite Pastime:** When I’m not in front of a screen, you’ll find me..
 
 ---
 
